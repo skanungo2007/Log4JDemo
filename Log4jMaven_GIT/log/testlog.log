@@ -1,0 +1,20 @@
+2021-06-24 22:45:50,011 - demoLog.Log4Demo -INFO - URL Accessed
+2021-06-24 22:45:50,328 - demoLog.Log4Demo -INFO - Browser Maximized
+2021-06-24 22:45:50,367 - demoLog.Log4Demo -INFO - Implicit Wait has been set
+2021-06-24 22:45:51,373 - demoLog.Log4Demo -INFO - Thread sleeping
+2021-06-24 22:45:51,375 - demoLog.Log4Demo -DEBUG - Closing browser
+2021-06-24 22:47:49,881 - demoLog.Log4Demo -INFO - URL Accessed
+2021-06-24 22:47:50,215 - demoLog.Log4Demo -INFO - Browser Maximized
+2021-06-24 22:47:50,256 - demoLog.Log4Demo -INFO - Implicit Wait has been set
+2021-06-24 22:47:51,269 - demoLog.Log4Demo -INFO - Thread sleeping
+2021-06-24 22:47:51,270 - demoLog.Log4Demo -DEBUG - Closing browser
+2021-06-24 23:02:00,275 - demoLog.Log4Demo -INFO - URL Accessed
+2021-06-24 23:02:00,327 - demoLog.Log4Demo -INFO - Browser Maximized
+2021-06-24 23:02:00,374 - demoLog.Log4Demo -INFO - Implicit Wait has been set
+2021-06-24 23:02:01,375 - demoLog.Log4Demo -INFO - Thread sleeping
+2021-06-24 23:02:01,376 - demoLog.Log4Demo -DEBUG - Closing browser
+2021-06-24 23:25:20,742 - demoLog.Log4Demo -INFO - URL Accessed
+2021-06-24 23:25:20,805 - demoLog.Log4Demo -INFO - Browser Maximized
+2021-06-24 23:25:20,846 - demoLog.Log4Demo -INFO - Implicit Wait has been set
+2021-06-24 23:25:21,859 - demoLog.Log4Demo -INFO - Thread sleeping
+2021-06-24 23:25:21,859 - demoLog.Log4Demo -DEBUG - Closing browser
